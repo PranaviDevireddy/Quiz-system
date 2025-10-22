@@ -9,7 +9,7 @@ connected_ips = set()
 clients_data = {}
 scores = {}
 
-# Define updated questions and answers (Computer Networks)
+
 single_correct_questions = [
     ("What does IP stand for?\nA. Internet Protocol\nB. Internal Process\nC. Interconnected Packet\nD. Input Protocol", "A"),
     ("Which device operates at Layer 2 of the OSI model?\nA. Router\nB. Switch\nC. Hub\nD. Modem", "B"),
